@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://github.com/lanisz">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lanisz&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-  <img height="170em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanisz&layout=compact&langs_count=7&theme=panda"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lanisz&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+  <img height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanisz&layout=compact&langs_count=7&theme=panda"/>
 </div>
   <div align="center">
   <a href = "mailto:alanisaraujocosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
